@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "MONTAGEM ALQUIMIA",
+  "base_artist": "h6itam、n7san7os和Mc Menor Do Alvorada",
+  "createdAt": "2026-03-27T13:52:02.650084Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MONTAGEM ALQUIMIA",
+      "artist": "h6itam",
+      "has_synced": true,
+      "path": "select/01_MONTAGEM_ALQUIMIA_h6itam.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MONTAGEM ALQUIMIA (SLOWED)",
+      "artist": "h6itam",
+      "has_synced": true,
+      "path": "select/02_MONTAGEM_ALQUIMIA_(SLOWED)_h6itam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MONTAGEM ALQUIMIA (Paused)",
+      "artist": "h6itam",
+      "has_synced": true,
+      "path": "select/03_MONTAGEM_ALQUIMIA_(Paused)_h6itam.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MONTAGEM ALQUIMIA - SLOWED",
+      "artist": "h6itam",
+      "has_synced": true,
+      "path": "select/04_MONTAGEM_ALQUIMIA_-_SLOWED_h6itam.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MONTAGEM ALQUIMIA (Slowed)",
+      "artist": "h6itam, n7san7os",
+      "has_synced": true,
+      "path": "select/05_MONTAGEM_ALQUIMIA_(Slowed)_h6itam,_n7san7os.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MONTAGEM ALQUIMIA - SUPER SLOWED",
+      "artist": "h6itam",
+      "has_synced": true,
+      "path": "select/06_MONTAGEM_ALQUIMIA_-_SUPER_SLOWED_h6itam.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MONTAGEM ALQUIMIA (SUPER SLOWED)",
+      "artist": "h6itam",
+      "has_synced": true,
+      "path": "select/07_MONTAGEM_ALQUIMIA_(SUPER_SLOWED)_h6itam.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MONTAGEM ALQUIMIA",
+      "artist": "h6itam, n7san7os & Mc Menor Do Alvorada",
+      "has_synced": true,
+      "path": "select/08_MONTAGEM_ALQUIMIA_h6itam,_n7san7os_&_Mc_Menor_Do_Alvorada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "MONTAGEM ALQUIMIA",
+      "artist": "h6itam, n7san7os, Mc Menor Do Alvorada",
+      "has_synced": true,
+      "path": "select/09_MONTAGEM_ALQUIMIA_h6itam,_n7san7os,_Mc_Menor_Do_Alvorada.lrc"
+    }
+  ]
+}
